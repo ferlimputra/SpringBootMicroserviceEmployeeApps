@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeSearchServiceApplication<EmployeeSearchService>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.microservice.springboot.training.EmployeeSearchService.EmployeeSearchServiceApplication",
+            "projectName": "EmployeeSearchService",
+            "args": ""
+        }
+    ]
+}

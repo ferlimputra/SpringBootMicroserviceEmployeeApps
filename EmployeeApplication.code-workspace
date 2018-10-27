@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "ConfigServer"
+		},
+		{
+			"path": "DiscoveryServer"
+		},
+		{
+			"path": "EmployeeSearchService"
+		},
+		{
+			"path": "EmployeeDashboardService"
+		},
+		{
+			"path": "GatewayService"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

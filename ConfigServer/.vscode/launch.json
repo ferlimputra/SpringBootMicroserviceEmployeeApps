@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigServerApplication<ConfigServer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.microservice.springboot.training.ConfigServer.ConfigServerApplication",
+            "projectName": "ConfigServer",
+            "args": ""
+        }
+    ]
+}
